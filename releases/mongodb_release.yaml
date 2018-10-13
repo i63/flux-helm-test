@@ -11,4 +11,4 @@
       image: bitnami/mongodb:3.7.9-r13
       imagePullPolicy: IfNotPresent
       persistence:
-        enabled: false
+        enabled: true
